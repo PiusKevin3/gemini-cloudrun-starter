@@ -10,7 +10,7 @@ A beginner-friendly AI Web App using **Google Gemini API** with Node.js, ready t
 
 ```bash
 cp .env.example .env
-# edit .env to add your GEMINI_API_KEY
+# edit .env to add your GEMINI_API_KEY in env file
 
 Install dependencies:
 
